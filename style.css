@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: darkslategray;
+}
+
+#header {
+    background-color: #c5dbdb;
+    text-decoration-color: #82979e;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+#blurb {
+    text-align: center;
+}
+
+l.astBlurb {
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+#bio {
+    background-color: #c5dbdb;
+}
+
+#post-bio {
+    text-align: center;
+    z-index: -1;
+}
+
+#pre-video {
+    padding-bottom: 0.5%;
+    padding-top: 1.5%;
+    text-align: center;
+}
+
+#video {
+    padding-bottom: 1%;
+}
+
+#projects {
+   background-color: #c5dbdb;
+   padding-bottom: 0.5%;
+}
+
+h3 {
+    padding-bottom: 1.55%;
+    padding-top: 0.25%;
+    padding-left: 0.25%;
+}
+
+#last-stuff {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+#last-stuff2 {
+    text-align: center;
+}
+
+#last-stuff2-1 {
+    text-align: center;
+    padding-bottom: 1.5%;
+}
+
+#header-img {
+    min-height: 100%;
+    background-image: URL("typewriter-2653187_960_720.webp");
+}
+
+#bio-img {
+    background-image: URL("London-Evening-Post-Original-Newspaper-Oct-1746-_57.jpg")
+}
+
+#project-img {
+    background-image: URL("Summit_Image.png")
+}
+
+#header-img2 {
+    min-height: 100%;
+    background-image: URL("20210521_172128.jpg");
+}
+
+#bio-img2 {
+    background-image: URL("69aa46544e714c4eed0ddd6ee7136272.jpg")
+}
+
+#project-img2 {
+    background-image: URL("pexels-photo-2194062.jpeg")
+}
+
+.divider-img {
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: darkslategray;
+    background-size: cover;
+    min-height: 50%;
+    opacity: 0.75;
+    background-attachment: fixed;
+}
+
+.caption {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+}
+
+.border {
+  background-color: #76b5b5;
+  color: White;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 5px;
+}
+
+.button {
+    box-shadow :3px 3px 3px:#76b5b;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:0.35%;
+    border-radius:10px;
+    border-style:solid;
+    border-color:#7ba6a6;
+    background-color: #76b5b5;
+    color:white;
+    margin:10px;
+    text-align:center;
+}
+
+#CFALOGO {
+    padding-top: 8px;
+}
+
+#last {
+    padding-bottom: 7px;
+}
+
+#reading {
+    padding-bottom: 7px;
+}
